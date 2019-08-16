@@ -4,3 +4,6 @@ title: Computational STEM Lab
 description: Bringing scientists and scientific computing to high schools
 
 show_downloads: false
+
+github:
+  repository_url: https://github.com/computational-stem-lab/csl-tutorial
