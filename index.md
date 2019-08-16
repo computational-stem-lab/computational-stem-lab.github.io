@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Computational STEM Lab is a UChicago student, staff, and faculty-led organization working to build interest in the computational sciences. We connect pre-college students with scientists from all levels of training by hosting educational coding workshops on and off campus. Our past workshops have served students from Bishop Noll High School in Indiana and Rauner College Prep in Chicago. We’re especially passionate about engaging with students from backgrounds traditionally underrepresented in STEM, those who would be the first in their family to attend college and/or those from low-income households.
+
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -37,6 +40,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -113,6 +117,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+```
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
