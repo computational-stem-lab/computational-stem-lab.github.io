@@ -10,4 +10,4 @@ We develop scientific programming tutorials for high school students using Jupyt
 
 # For educators
 
-If you are a scientist or educator who would like information about running a CSL workshop in your area, please contact Dan Rice at: dpr(at)uchicago(dot)edu
+If you are a scientist or educator who would like information about working with us or running a CSL workshop in your area, please fill out [this short survey](https://docs.google.com/forms/d/e/1FAIpQLScv5JgekAAXZIUHH3uGkqtuMjBbNx-72kthqIv1WknYSvMqwQ/viewform?usp=sf_link "CSL survey") and we will be in touch.
