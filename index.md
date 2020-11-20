@@ -6,7 +6,7 @@ Computational STEM Lab is a UChicago student, staff, and faculty-led organizatio
 
 We develop scientific programming tutorials for high school students using Jupyter notebooks. To explore our lessons at home using myBinder, click here:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-stem-lab/csl-tutorial/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-stem-lab/csl-tutorial/EYH2020)
 
 # For educators
 
